@@ -1,3 +1,3 @@
 for i in range(100):
-    print("Vlado is a butt.")
+    print("Simon is useless.")
 print("xd")
